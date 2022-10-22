@@ -5,6 +5,7 @@ public class Yagislar {
         String[] months={"Jan","Feb","Mar","Apr","May","Jun",
                          "Jul","Aug","Sep","Oct","Nov","Dec"};
 
+
        double [] rains={40.5,35.3,42.2,51.3,35.2,14.1,12.5,18.0,7.5,31.5,44.6};
        double toplam=0;
 
